@@ -1,7 +1,7 @@
 # 💬 Random Quote
 MyRandomCodeGenerator
 
-This repository contains a random code generator based on code forked from [Rutik Wankhade]((https://github.com/rutikwankhade/Random-Quote)).
+This repository contains a random code generator based on code forked from [Rutik Wankhade][(https://github.com/rutikwankhade/Random-Quote)].
 
 
 ![random quote](https://user-images.githubusercontent.com/47467468/88476802-fc964680-cf58-11ea-9413-64ac4c87fa38.png)
